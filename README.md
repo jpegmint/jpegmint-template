@@ -1,1 +1,1 @@
-# jpegmint-template
+# unnamedproject

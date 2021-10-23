@@ -1,0 +1,10 @@
+## Sample env config file ##
+
+# Wallet #
+MNEMONIC=
+
+# Ethereum Endpoints #
+INFURA_API_KEY=
+
+# Etherscan #
+ETHERSCAN_API_KEY=
