@@ -1,0 +1,1 @@
+# jpegmint-template
